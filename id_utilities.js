@@ -1,5 +1,6 @@
 /*
 	ID JS file
+	Available at: https://github.com/hermanolustosa/id-utilities
 */
 
 var random_alpha_string = function(length) {
